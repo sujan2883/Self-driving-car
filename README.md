@@ -33,23 +33,25 @@ This repository contains the implementation and comparison of two deep learning 
 - 📝 Well-documented research methodology
 
 ---
-
 ## 📦 Requirements
 
 Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🚀 How to Run
 
 ### NVIDIA Model Training
 ```bash
 python Codes/train_nvidia.py
+```
 
 ### DeepDriving Model Training
 ```bash
 python Codes/train_deepdriving.py
+```
 
 ## 📜 Citation
 
